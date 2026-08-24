@@ -139,33 +139,18 @@ Highlights:
 
 ---
 
-## 📊 GitHub Statistics
+## 📌 GitHub Journey
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=marojupranith0428&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Pranith's GitHub statistics"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marojupranith0428&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most used languages"
-  />
-</p>
+I use GitHub to document my learning and projects in **VLSI Physical Design**, including:
 
----
+- RTL-to-GDSII implementation flow
+- Floorplanning and Power Planning
+- Placement and Clock Tree Synthesis
+- Routing and Physical Verification
+- Static Timing Analysis and Timing Closure
+- TCL automation scripts
+- Physical Design project documentation
 
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=marojupranith0428&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</p>
-
----
 
 ## 🧩 Areas of Interest
 
