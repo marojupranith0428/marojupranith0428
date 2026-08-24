@@ -1,22 +1,26 @@
 # Hi there, I'm Pranith 👋
 
-### 🚀 VLSI Physical Design Engineer | Backend Design Enthusiast
+### VLSI Physical Design Engineer | Backend Design Enthusiast
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=marojupranith0428&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
+</p>
 
 Welcome to my GitHub profile! I am an Electronics and Communication Engineering graduate with a strong interest in **VLSI Physical Design and Backend Implementation**.
 
-I am passionate about understanding how a design travels from **RTL to GDSII** and solving challenges related to timing, placement, routing, power, congestion, and physical verification.
+I am passionate about understanding how a design progresses from **RTL to GDSII** and exploring challenges related to timing, placement, routing, power, congestion, and physical verification.
 
 ---
 
 ## 👨‍💻 About Me
 
 * 🔭 Currently building and documenting **VLSI Physical Design projects**
-* 🌱 Learning advanced **Physical Design, STA, MCMM, ECO and Signoff methodologies**
-* 🛠️ Hands-on experience with **Synopsys Design Compiler, ICC2 and Fusion Compiler**
-* 📐 Interested in **Floorplanning, Power Planning, Placement, CTS and Routing**
-* ⏱️ Working on improving knowledge in **Setup/Hold Analysis and Timing Closure**
-* 🐧 Comfortable working with **Linux, TCL and Shell environments**
-* 💡 Always curious about semiconductor technology and chip implementation
+* 🌱 Learning advanced concepts in **Physical Design, STA, MCMM, ECO, and Signoff**
+* 🛠️ Hands-on experience with **Synopsys Design Compiler, ICC2, and Fusion Compiler**
+* 📐 Interested in **Floorplanning, Power Planning, Placement, CTS, and Routing**
+* ⏱️ Improving my knowledge of **Setup/Hold Analysis and Timing Closure**
+* 🐧 Comfortable working with **Linux, TCL, and Shell environments**
+* 💡 Curious about semiconductor technology and chip implementation
 
 ---
 
@@ -25,44 +29,44 @@ I am passionate about understanding how a design travels from **RTL to GDSII** a
 ### 🔹 EDA Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Synopsys-Design%20Compiler-1f6feb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Synopsys-ICC2-238636?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Synopsys-Fusion%20Compiler-8250df?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Synopsys-Design%20Compiler-1f6feb?style=for-the-badge" alt="Synopsys Design Compiler" />
+  <img src="https://img.shields.io/badge/Synopsys-ICC2-238636?style=for-the-badge" alt="Synopsys ICC2" />
+  <img src="https://img.shields.io/badge/Synopsys-Fusion%20Compiler-8250df?style=for-the-badge" alt="Synopsys Fusion Compiler" />
 </p>
 
 ### 🔹 Physical Design
 
 <p>
-  <img src="https://img.shields.io/badge/RTL--to--GDSII-Physical%20Design-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Floorplanning-Macros%20%26%20IOs-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power%20Planning-PG%20Grid-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Placement-Optimization-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CTS-Clock%20Tree-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Routing-Global%20%26%20Detail-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RTL--to--GDSII-Physical%20Design-orange?style=for-the-badge" alt="RTL to GDSII" />
+  <img src="https://img.shields.io/badge/Floorplanning-Macros%20%26%20IOs-blue?style=for-the-badge" alt="Floorplanning" />
+  <img src="https://img.shields.io/badge/Power%20Planning-PG%20Grid-red?style=for-the-badge" alt="Power Planning" />
+  <img src="https://img.shields.io/badge/Placement-Optimization-success?style=for-the-badge" alt="Placement" />
+  <img src="https://img.shields.io/badge/CTS-Clock%20Tree-purple?style=for-the-badge" alt="Clock Tree Synthesis" />
+  <img src="https://img.shields.io/badge/Routing-Global%20%26%20Detail-yellow?style=for-the-badge" alt="Routing" />
 </p>
 
 ### 🔹 Timing & Analysis
 
 <p>
-  <img src="https://img.shields.io/badge/STA-Static%20Timing%20Analysis-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Setup-Fixing-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hold-Fixing-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCMM-Multi%20Corner%20Multi%20Mode-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ECO-Timing%20Optimization-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STA-Static%20Timing%20Analysis-blue?style=for-the-badge" alt="Static Timing Analysis" />
+  <img src="https://img.shields.io/badge/Setup-Timing%20Closure-brightgreen?style=for-the-badge" alt="Setup Timing" />
+  <img src="https://img.shields.io/badge/Hold-Timing%20Closure-brightgreen?style=for-the-badge" alt="Hold Timing" />
+  <img src="https://img.shields.io/badge/MCMM-Multi%20Corner%20Multi%20Mode-orange?style=for-the-badge" alt="MCMM" />
+  <img src="https://img.shields.io/badge/ECO-Timing%20Optimization-red?style=for-the-badge" alt="ECO" />
 </p>
 
 ### 🔹 Programming & Operating Systems
 
 <p>
-  <img src="https://img.shields.io/badge/TCL-Scripting-blue?style=for-the-badge&logo=tcl" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCL-Scripting-blue?style=for-the-badge" alt="TCL" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
 
-# 🧠 Physical Design Flow
+## 🧠 Physical Design Flow
 
 ```text
                  RTL Design
@@ -71,7 +75,7 @@ I am passionate about understanding how a design travels from **RTL to GDSII** a
                 Synthesis
                      │
                      ▼
-                Floorplan
+                Floorplanning
                      │
                      ▼
                Power Planning
@@ -122,7 +126,7 @@ Key areas explored:
 
 ### 🔷 ALU Physical Design Project
 
-**Multi-clock domain ALU implementation**
+**Multi-Clock Domain ALU Implementation**
 
 Highlights:
 
@@ -141,13 +145,13 @@ Highlights:
   <img
     height="170"
     src="https://github-readme-stats.vercel.app/api?username=marojupranith0428&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Pranith's GitHub statistics"
   />
-
-<img
- height="170"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=marojupranith0428&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marojupranith0428&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most used languages"
+  />
 </p>
 
 ---
@@ -157,6 +161,7 @@ Highlights:
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=marojupranith0428&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
   />
 </p>
 
@@ -175,7 +180,7 @@ Physical Design
 ├── Setup / Hold Closure
 ├── MCMM Analysis
 ├── ECO Implementation
-├── IR Drop
+├── Power Integrity
 └── Physical Verification
 ```
 
@@ -183,34 +188,32 @@ Physical Design
 
 ## 🎯 Current Focus
 
-```text
-📚 Advanced Physical Design Concepts
-⏱️ Static Timing Analysis
-🔧 Timing Closure
-⚡ Power Integrity
-🌐 MCMM Analysis
-🐧 TCL Automation
-📂 Building VLSI Projects on GitHub
-```
+* 📚 Advanced Physical Design Concepts
+* ⏱️ Static Timing Analysis
+* 🔧 Timing Closure
+* ⚡ Power Integrity
+* 🌐 MCMM Analysis
+* 🐧 TCL Automation
+* 📂 Building and documenting VLSI projects on GitHub
 
 ---
 
 ## 📫 Connect With Me
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="YOUR_LINKEDIN_PROFILE_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:YOUR_EMAIL_ADDRESS">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Turning RTL into silicon, one stage at a time.”</i>
+  <i>Turning RTL into silicon, one stage at a time.</i>
 </p>
 
 <p align="center">
